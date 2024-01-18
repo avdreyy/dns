@@ -2547,3 +2547,11 @@ deploy:
 - ttl: 1
   type: A
   value: 178.62.4.201
+
+ hacktks:
+  - ttl : 1
+    type: CNAME 
+    value: datathon.hackclub.com
+
+
+    
