@@ -1,0 +1,13 @@
+
+
+'www':
+- type: CNAME
+  ttl: 21600
+  value: datathon.hackclub.com
+
+
+    _vercel:
+  ttl: 1
+  type: TXT
+  values:
+    - vc-domain-verify=wackclub.hackclub.com,423c28e0fbdd51449cf1
